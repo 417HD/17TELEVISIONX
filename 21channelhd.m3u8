@@ -1,4 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:5.041667,
+https://archive.org/serve/cure_20211214/Cure.mp4
+#EXTINF:5.000000,
+https://archive.org/serve/tpir-4734d/4734D_821230.mp4
+#EXTINF:3.083333,
+https://archive.org/serve/celebrity-jeopardy-november-7-1995-featuring-le-var-burton-as-contestant/Celebrity%20Jeopardy%21%20-%20November%207%2C%201995%20%28Featuring%20LeVar%20Burton%20as%20Contestant%29.mp4
+#EXT-X-ENDLIST
