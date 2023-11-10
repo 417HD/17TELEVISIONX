@@ -2,3 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 https://outbound-production.explore.org/stream-production-56/.m3u8
+#EXT-X-ENDLIST
