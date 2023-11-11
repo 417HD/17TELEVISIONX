@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1
-https://stream-ue1-delta.dropcam.com:443/nexus_aac/31011f6bb11549d2bdedbc31980fbc23/playlist.m3u8?public=W6x4rcNnV0
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1080
+https://outbound-production.explore.org/stream-production-56/.m3u8
